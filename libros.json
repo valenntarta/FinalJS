@@ -1,0 +1,14 @@
+[
+	{
+		"titulo": "falacia",
+		"autor": "el",
+		"codigo": "4",
+		"estado": "alquilado"
+	},
+	{
+		"titulo": "holatodos",
+		"autor": "yo",
+		"estado": "disponible",
+		"codigo": "5"
+	}
+]
